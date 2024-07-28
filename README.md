@@ -16,6 +16,9 @@ You may also see any lint errors in the console.
 
 ### Dependencies Used react-accessible-accorddion, react-select-async-paginate
 
+### This Project Fetch the Cities Data from https://rapidapi.com/wirefreethought/api/geodb-cities 
+
+### And Fetches the Forecast Data from the https://home.openweathermap.org/
 
 ### `npm run eject`
 
